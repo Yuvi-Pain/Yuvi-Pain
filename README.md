@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Yuvraj Bains</h1>
-<h3 align="center">Currently, a second-year student at Carleton University in Ottawa pursuing a degree in software engineering. In search of CO-OP Possibilities to advance in my career as a software engineer!</h3>
+<h3 align="center">Currently, a fourth-year student at Carleton University in Ottawa pursuing a degree in software engineering. In search of CO-OP Possibilities to advance in my career as a software engineer!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvi-pain&label=Profile%20views&color=0e75b6&style=flat" alt="yuvi-pain" /> </p>
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **an upcoming project!**
 
-- ⚡ Fun fact [I'm an avid reader](I'm an avid reader)
+- ⚡ Fun fact [I'm an avid reader]
 
 - 💬 Ask me about **my plans on the future**
 

@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://twitter.com/yuvibeast123" target="blank"><img src="https://img.shields.io/twitter/follow/yuvibeast123?logo=twitter&style=for-the-badge" alt="yuvibeast123" /></a> </p>
 
 - 🌱 I’m actively learning **front end development**
+  
+-  Carleton Graduate
 
 - 🤝 I’m looking for help with **an upcoming project!**
 
